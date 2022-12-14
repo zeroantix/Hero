@@ -1,5 +1,7 @@
 # Hero
  Minimalistic Fullscreen Theme designed for Steam Heroes!
+ 
+ Images below are initial release (v1.0.0)
 
 ![Screenshot_Main_Square](https://user-images.githubusercontent.com/97025763/204132480-f8589b80-533e-49b8-a3f0-12f2976b9e6e.jpg)
 ![Screenshot_Game_Details](https://user-images.githubusercontent.com/97025763/204132485-7e448c0a-12b3-4b7f-8474-af99bb37f398.jpg)
