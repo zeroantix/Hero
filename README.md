@@ -1,11 +1,12 @@
 # Hero
  Minimalistic Fullscreen Theme designed for Steam Heroes!
  
- Images below are initial release (v1.0.0)
+ Images below are initial release (v1.7.1)
 
-![Screenshot_Main_Square](https://user-images.githubusercontent.com/97025763/204132480-f8589b80-533e-49b8-a3f0-12f2976b9e6e.jpg)
-![Screenshot_Game_Details](https://user-images.githubusercontent.com/97025763/204132485-7e448c0a-12b3-4b7f-8474-af99bb37f398.jpg)
-![Screenshot_Grid_View](https://user-images.githubusercontent.com/97025763/204132489-e8d43869-3284-4945-a89c-4d0d2b8f5505.jpg)
+![Main](https://user-images.githubusercontent.com/97025763/214708991-c42a76a5-b2fa-47ff-807d-796a46cd76c8.jpg)
+![Grid](https://user-images.githubusercontent.com/97025763/214709014-51e863bc-65fe-4ecf-bf41-948071a6ec50.jpg)
+![Main - Fullscreen](https://user-images.githubusercontent.com/97025763/214709030-c9a5e2a1-7656-4f48-b0f7-92b392d1942a.jpg)
+![Game Details](https://user-images.githubusercontent.com/97025763/214709052-294a82b2-5786-4340-88a3-b699da7c2ae3.jpg)
 
 **Extra Metadata Loader** plugin required not only for Logos, but to take advantage of Game Music and/or Alternative Background Images in Game Details View.
 
