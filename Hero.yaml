@@ -3,7 +3,7 @@ Packages:
   - Version: 1.7.1
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-25
-    PackageUrl: https://github.com/zeroantix/Hero/releases/download/v1.7.1/Hero_b490d300-ff04-4f7d-905e-a3ee6e421ecf_1_7_1.pthm
+    PackageUrl: https://github.com/zeroantix/Hero/releases/download/v1.8.0/Hero_b490d300-ff04-4f7d-905e-a3ee6e421ecf_1_8_0.pthm
     Changelog:
       - Offical Playnite Database / Plugin Release
       - Please backup any previous Hero Theme release you may have modified / downloaded / edited before installing this!
