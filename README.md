@@ -4,8 +4,9 @@
  Images below are release **v1.7.1**
 
 ![Main](https://user-images.githubusercontent.com/97025763/214708991-c42a76a5-b2fa-47ff-807d-796a46cd76c8.jpg)
-![Grid](https://user-images.githubusercontent.com/97025763/214709014-51e863bc-65fe-4ecf-bf41-948071a6ec50.jpg)
+
 ![Main - Fullscreen](https://user-images.githubusercontent.com/97025763/214709030-c9a5e2a1-7656-4f48-b0f7-92b392d1942a.jpg)
+
 ![Game Details](https://user-images.githubusercontent.com/97025763/214709052-294a82b2-5786-4340-88a3-b699da7c2ae3.jpg)
 
 **Extra Metadata Loader** plugin required not only for Logos, but to take advantage of Game Music and/or Alternative Background Images in Game Details View.
